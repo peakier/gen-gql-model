@@ -1,0 +1,4 @@
+graqhql_configs:
+  - path: ./_example/_foundation.json
+    output_dir: ./_example/model/
+    package_name: model
